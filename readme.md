@@ -28,8 +28,6 @@ pip install -r requirements.txt
 python auto_vpn_script.py
 ```
 
-Sure, here is the improved English version of your README.md:
-
 ---
 
 # Auto VPN Script
